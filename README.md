@@ -1,4 +1,4 @@
-# MATLAB.combined_lecture_note
+# MATLAB.livescript
 
 Here are some lecture notes on mathematics created by MATLAB live script. These are mlx files containing LaTeX description, MATLAB codes and their outputs. 
 
