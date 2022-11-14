@@ -3,7 +3,7 @@
 Here are some lecture notes on mathematics created by MATLAB live script. These are mlx files containing LaTeX description, MATLAB codes and their outputs. 
 
 - live-ct.mlx: X-ray transform on the plane 
-- live_diff.mlx: Differentiability of One-Variable Functions
+- live-diff.mlx: Differentiability of One-Variable Functions
 - live-fourier.mlx: Convergence and Divergence of Fourier Series
 - live-numerical-ode.mlx: Numerical Solutions to ODEs
 - live-ode.mlx: Solving Ordinary Differential Equations
