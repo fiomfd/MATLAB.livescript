@@ -8,4 +8,5 @@ Here are some lecture notes on mathematics created by MATLAB live script. These 
 - live_svd.mlx: Singular Value Decomposition of Matrices and Best Low Rank Approximation of RGB Images 
 - live-ode.mlx: Solving Ordinary Differential Equations
 - live-numerical-ode.mlx: Numerical Solutions to ODEs
-- live-fourier: Convergence and Divergence of Fourier Series
+- live-fourier.mlx: Convergence and Divergence of Fourier Series
+- live-ct.mlx: X-ray transform on the plane 
